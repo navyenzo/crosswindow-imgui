@@ -1,6 +1,6 @@
 #pragma once
 
-#include "CrossWindow/Common/Event.h"
+#include <CrossWindow/Common/Event.h>
 #include <string>
 
 namespace xgfx
