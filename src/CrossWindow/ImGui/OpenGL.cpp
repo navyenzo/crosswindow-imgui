@@ -1,4 +1,4 @@
-#include "OpenGLImGuiManager.h"
+#include "OpenGL.h"
 
 // OpenGL
 #include <glad/glad.h>
